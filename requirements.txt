@@ -1,2 +1,14 @@
 termcolor~=2.3.0
 steamship==2.17.7
+steamship-langchain
+earthengine-api
+shapely
+geopandas
+matplotlib
+rasterio
+openai
+google-search-results
+scikit-learn
+ipyleaflet
+psycopg2
+verify-email
